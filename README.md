@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Otabek66
 - 👀 I’m interested in math and programming
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: My email is otabekotaboyev6901@gmail.com
 - You can find me with this nick name on telegram "otabekotaboyev"
 
